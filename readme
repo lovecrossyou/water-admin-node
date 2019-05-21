@@ -1,1 +1,7 @@
-cxcc
+喜腾管理端服务 代码更新服务启动命令
+1:ssh  xituser@123.56.159.72
+2:98|&6167NrRm9E37E:8!F<=fJ3{
+3:cd util/
+4:su
+5:dP^N'0i6&9cJcY6j[WYLNrRm9
+6: sh deploy_xt_admin.sh
